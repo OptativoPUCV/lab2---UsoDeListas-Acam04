@@ -45,3 +45,9 @@ exercises.c:155:5: error: ‘contador’ may be used uninitialized in this funct
 cc1: all warnings being treated as errors
 Compilation failed
 209258b
+Wed 20 Mar 2024 08:56:27 PM UTC: 
+ exercises.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  7|1
+total_score: 60/70
+339e993
